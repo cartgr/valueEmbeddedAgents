@@ -1,0 +1,11 @@
+step,agent_action,river_dirtiness,orchard_fruits,agent_reward
+0,move north,8,4,0
+1,move north,8,4,0
+2,move north,8,5,0
+3,move north,8,5,0
+4,pick fruit,8,5,0
+5,pick fruit,8,4,1
+6,pick fruit,8,3,2
+7,move east,9,2,3
+8,pick fruit,9,2,3
+9,pick fruit,9,1,4
