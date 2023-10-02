@@ -1,0 +1,6 @@
+,step,river_dirtiness,orchard_fruits,agent_1_action,agent_2_action,agent_1_reward,agent_2_reward
+0,0,8,4,move east,move north,0,0
+1,1,8,4,move north,move north,0,0
+2,2,8,4,move south,move north,0,0
+3,3,8,4,move north,move north,0,0
+4,4,9,4,move south,move north,0,0
